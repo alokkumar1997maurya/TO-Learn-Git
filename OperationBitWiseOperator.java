@@ -9,7 +9,7 @@ public class OperationBitWiseOperator {
         if((n & bitMask )==0){
             System.out.println("0");
         }else{
-            System.out.println("1");
+            System.out.println("1"); 
         }
 
     }
