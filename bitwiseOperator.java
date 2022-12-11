@@ -41,13 +41,16 @@ class bitwiseOperator{
                      /*
                             formula of the right shift 
                             
-                            formula  ==>  
-
+                            formula  ==>  [  a/2^b  ]
 
                       */
 
 
 
+                                //      How to cheak number is odd or even 
+                                //       if   LSB ==>  0  number is even
+                                //       if   LSB ==>  1  number is odd
+                            
 
     }
 }
